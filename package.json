@@ -1,0 +1,27 @@
+{
+  "name": "voting-dapp",
+  "version": "1.0.0",
+  "description": "A decentralized voting system built on Ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "voting",
+    "dapp",
+    "solidity",
+    "web3"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "ethers": "^5.7.0"
+  }
+}
