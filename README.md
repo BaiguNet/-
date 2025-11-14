@@ -1,6 +1,8 @@
-# 去中心化投票系统 DApp
+<img width="2082" height="1255" alt="QQ截图20251114200044" src="https://github.com/user-attachments/assets/4ad41b6e-a9e3-48e0-ace0-a3253edcca8c" /># 去中心化投票系统 DApp
 
 一个基于以太坊区块链的去中心化投票系统，具有透明、安全、不可篡改的特性。
+
+定制开发请联系：Baigu.net
 
 ## 功能特点
 
@@ -95,5 +97,6 @@ npx hardhat run scripts/deploy.js --network <network-name>
 支持的网络包括: ropsten, rinkeby, kovan, goerli
 
 ## 许可证
+
 
 MIT License
